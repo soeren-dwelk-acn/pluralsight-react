@@ -1,0 +1,13 @@
+.themeFontColor {
+    color: coral;
+}
+
+tr {
+    cursor: pointer;
+}
+
+.debug-border {
+    color: crimson;
+    background-color: bisque;
+    border: 1px solid black;
+}
